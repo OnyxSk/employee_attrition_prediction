@@ -1,6 +1,6 @@
 # Employee Attrition Analysis & Prediction
 
-## 📌 Project Overview
+##  Project Overview
 This project explores employee attrition using HR data and builds a machine learning model to predict whether an employee is likely to leave the company.
 
 The goal is to:
@@ -11,7 +11,7 @@ The goal is to:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 employee-attrition-analysis/
@@ -32,7 +32,7 @@ employee-attrition-analysis/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - Source: Public HR dataset
 - Rows: ~4,600 employees
 - Target variable: `LeaveOrNot`
